@@ -2,3 +2,15 @@
   href: index.md
 - name: Installation Guide
   href: installation_guide.md
+- name: Global Package
+  href: global/index.md
+  items:
+  - name: Standardization
+    href: global/standardization/index.md
+    items:
+    - name: ISO 639
+      href: global/standardization/standard_iso639.md
+    - name: ISO 3166
+      href: global/standardization/standard_iso3166.md
+    - name: ISO 3166
+      href: global/standardization/standard_lcid.md
